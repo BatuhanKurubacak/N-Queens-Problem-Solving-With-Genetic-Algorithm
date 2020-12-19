@@ -1,0 +1,1 @@
+I've been looking at this algorithm for a long time. But I just can't find the 28 with the best case value. I could find 25 in the best case in this algorithm. If anyone can help, I would appreciate it.
